@@ -1,0 +1,50 @@
+---
+layout: nav-page 
+title: Babita Naagar
+---
+
+<div class="container">
+
+  <div id="home_header" class="row justify-content-md-center">
+    <div class="col-lg-3 col-md-4 home_img">
+      <img class="pe-3 img-circle img-fluid" src="/assets/images/me.gif" alt="">
+    </div>
+    <div class="col-lg-6 col-md-8">
+      <div class="fs-3">
+        <strong>Hi, I'm Babita 👋 </strong>
+      </div>
+
+      <div>
+        <p>
+          I'm an UX/UI designer based out of Bangalore, India. I have 1.5 years of experience in
+          <strong>designing interfaces and experiences for digital products</strong>.
+        </p>
+
+        <p>
+          I have a background in Information Technology and have also worked as a software
+          developer in Fintech domain for 1.5 years.
+        </p>
+
+        <p>
+          Currently I'm pursuing
+          <strong>Masters in Interaction Design</strong>
+          from
+          <span>NID Bangalore</span>.
+        </p>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="row text-center fw-bold">
+    <a id="work"></a>
+    <div>Work</div>
+    <div><i class="bi bi-chevron-double-down"></i></div>
+  </div>
+
+  <div class="row text-center">
+    {% for p in site.data.projects %}
+      {% include project-card.html %}
+    {% endfor %}
+  </div>
+</div>

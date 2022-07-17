@@ -1,0 +1,61 @@
+html { position: relative; min-height: 100%; }
+
+body { color: #525252; margin-bottom: 12rem; }
+
+.fs-custom-1 { font-size: 0.7rem !important; }
+
+.fs-custom-2 { font-size: 0.8rem !important; }
+
+.fs-custom-3 { font-size: 0.9rem !important; }
+
+.fs-custom-4 { font-size: 1rem !important; }
+
+.fs-custom-5 { font-size: 1.1rem !important; }
+
+.fs-custom-6 { font-size: 1.2rem !important; }
+
+.fs-custom-7 { font-size: 1.3rem !important; }
+
+.fs-custom-8 { font-size: 1.4rem !important; }
+
+.fs-custom-9 { font-size: 1.5rem !important; }
+
+.fc-light-grey { color: #898888; }
+
+.navbar__header a { font-weight: bold; color: #525252; text-decoration: none; }
+
+.navbar__header a:hover { color: #222222; }
+
+.navbar__header a:visited { color: #525252; }
+
+.navbar__header a:visited:hover { color: #222222; }
+
+.navbar-explicit { background-color: #ffffff; box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1); }
+
+.nav-link { text-decoration: underline; transition: text-decoration 300ms ease; }
+
+.nav-link:hover { text-decoration: underline #ffffff; transition: text-decoration 300ms ease; }
+
+footer { position: absolute; overflow: hidden; bottom: 0; width: 100%; height: 12rem; line-height: 12rem; }
+
+.home_img { position: relative; min-height: 200px; }
+
+.home_img img { display: block; width: 100%; max-width: 250px; object-fit: cover; position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); clip-path: circle(100px at center); }
+
+.project-img { width: 100%; }
+
+.project-card-img-container img:hover { transform: scale(1.03); transition: 200ms ease; }
+
+.project-card-img-container img { transition: 200ms ease; }
+
+@media (min-width: 0) { .custom-container { max-width: 500px; } #home_header { margin-top: 6vh; margin-bottom: 4vh; } .project-card-img-container { padding-left: 20%; padding-right: 20%; } }
+
+@media (min-width: 576px) { .custom-container { max-width: 500px; } #home_header { margin-top: 6vh; margin-bottom: 4vh; } .project-card-img-container { padding-left: 10%; padding-right: 10%; } }
+
+@media (min-width: 768px) { .custom-container { max-width: 600px; } #home_header { margin-top: 10vh; margin-bottom: 5vh; } .project-card-img-container { padding-left: 10%; padding-right: 10%; } }
+
+@media (min-width: 992px) { .custom-container { max-width: 720px; } #home_header { margin-top: 20vh; margin-bottom: 15vh; } .project-card-img-container { padding-left: 10%; padding-right: 10%; } }
+
+@media (min-width: 1200px) { .custom-container { max-width: 900px; } .project-card-img-container { padding-left: 10%; padding-right: 10%; } }
+
+/*# sourceMappingURL=style.css.map */
