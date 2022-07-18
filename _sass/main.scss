@@ -32,6 +32,14 @@ div {
 //  border: 1px solid grey;
 }
 
+footer.footer {
+  background-color: black;
+}
+
+.pb-large {
+  padding-bottom: 8em;
+}
+
 .fs-custom-1 {
   font-size: 0.7rem !important;
 }
@@ -201,8 +209,8 @@ footer {
     max-width:720px;
 }
 #home_header {
-  margin-top: 22vh;
-  margin-bottom: 22vh;
+  margin-top: 24vh;
+  margin-bottom: 24vh;
 }
 .project-card-img-container {
   padding-left: 10%;
