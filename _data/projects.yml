@@ -1,8 +1,44 @@
-- id: fundo
-  title: Fundo
-  desc: UI Design, Logo Design, Exploration
+- id: kheti
+  title: Kheti
+  desc: Description here
   duration: 2 Weeks
 - id: navigation
   title: Navigation
-  desc: TODO
+  desc: Description here
+  duration: 2 Weeks
+- id: service-design
+  title: Service Design
+  desc: Description here
+  duration: 2 Weeks
+- id: talk-on
+  title: TalkOn
+  desc: Description here
+  duration: 2 Weeks
+- id: wipro
+  title: Wipro
+  desc: Description here
+  duration: 2 Weeks
+- id: wherehouse
+  title: Wherehouse
+  desc: Description here
+  duration: 2 Weeks
+- id: virtual-reality
+  title: Virtual Reality
+  desc: Description here
+  duration: 2 Weeks
+- id: fundo
+  title: Fundo
+  desc: Description here
+  duration: 2 Weeks
+- id: ropot
+  title: Ropot
+  desc: Description here
+  duration: 2 Weeks
+- id: angry-me
+  title: Angry me
+  desc: Description here
+  duration: 2 Weeks
+- id: portfolio-2019
+  title: Portfolio 2019
+  desc: Description here
   duration: 2 Weeks
