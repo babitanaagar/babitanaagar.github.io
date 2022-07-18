@@ -16,6 +16,8 @@ $footer_height: 12rem;
 
 $color_default: #525252;
 
+$color_lt_grey: #d9d9d9;
+
 html {
   position: relative;
   min-height: 100%;
@@ -25,7 +27,6 @@ body {
   color: #525252;
   margin-bottom: $footer_height;
 }
-
 
 div {
 //  border: 1px solid grey;
@@ -71,10 +72,9 @@ div {
   color: #898888
 }
 
-// #home_header {
-  // margin-top: 20vh;
-  // margin-bottom: 15vh;
-// }
+#home_header {
+  line-height: 2em;
+}
 
 .navbar__header a {
   font-weight: bold;
@@ -136,6 +136,10 @@ footer {
   clip-path: circle(100px at center);
 }
 
+.project-page {
+  background-color: $color_lt_grey;
+}
+
 .project-img {
   width: 100%;
 }
@@ -147,6 +151,8 @@ footer {
 
 .project-card-img-container img {
   transition: 200ms ease;
+  border: 1px solid $color_lt_grey;
+  border-radius: 16px;
 }
 
 
@@ -195,8 +201,8 @@ footer {
     max-width:720px;
 }
 #home_header {
-  margin-top: 20vh;
-  margin-bottom: 15vh;
+  margin-top: 22vh;
+  margin-bottom: 22vh;
 }
 .project-card-img-container {
   padding-left: 10%;

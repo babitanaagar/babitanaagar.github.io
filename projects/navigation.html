@@ -1,14 +1,12 @@
 ---
-layout: nav-page
+layout: project-page
 title: Navigation
 ---
 
-<div class="container-fluid custom-container mt-5">
-  {% for i in (1..53) %}
-  <div class="project-slide mb-5">
-    <figure data-href="/assets/images/navigation/slides/{{ i }}.png" class="progressive replace">
-      <img src="/assets/images/mini.png" class="preview" alt="">
-    </figure>
-  </div>
-  {% endfor %}
+{% for i in (1..53) %}
+<div class="project-slide mb-5">
+  <figure data-href="/assets/images/navigation/slides/{{ i }}.png" class="progressive replace">
+    <img src="/assets/images/mini.png" class="preview" alt="">
+  </figure>
 </div>
+{% endfor %}
