@@ -3,42 +3,42 @@
   desc: Service Design, UI/UX Design
   duration: 8 Weeks
 - id: navigation
-  title: Navigation
-  desc: Description here
-  duration: 2 Weeks
+  title: Navigation System
+  desc: UI/UX Design, Exploration
+  duration: 4 Weeks
 - id: service-design
-  title: Service Design
-  desc: Description here
-  duration: 2 Weeks
+  title: Service Audit
+  desc: UX Audit, Service Design
+  duration: 1 Weeks
 - id: talk-on
   title: TalkOn
-  desc: Description here
-  duration: 2 Weeks
+  desc: Designathon, UI/UX Design
+  duration: 24 Hours
 - id: wipro
-  title: Wipro
-  desc: Description here
-  duration: 2 Weeks
+  title: Wipro Internship
+  desc: UI/UX Design, Research
+  duration: 4 Weeks
 - id: wherehouse
   title: Wherehouse
-  desc: Description here
-  duration: 2 Weeks
+  desc: UI/UX Design, Visual Design
+  duration: 4 Weeks
 - id: virtual-reality
-  title: Virtual Reality
-  desc: Description here
-  duration: 2 Weeks
+  title: Positiv - VR App
+  desc: Virtual Reality, Unity
+  duration: 4 Weeks
 - id: fundo
   title: Fundo
-  desc: Description here
+  desc: UI/UX, Identity Design
   duration: 2 Weeks
 - id: ropot
   title: Ropot
-  desc: Description here
+  desc: Internet of Things, UI/UX
   duration: 2 Weeks
 - id: angry-me
   title: Angry me
-  desc: Description here
+  desc: Physical Computing, Exploration
   duration: 2 Weeks
 - id: portfolio-2019
   title: Portfolio 2019
-  desc: Description here
-  duration: 2 Weeks
+  desc: Before NID
+  duration: NA
