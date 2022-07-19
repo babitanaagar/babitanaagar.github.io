@@ -9,7 +9,7 @@
 - id: service-design
   title: Service Audit
   desc: UX Audit, Service Design
-  duration: 1 Weeks
+  duration: 1 Week
 - id: talk-on
   title: TalkOn
   desc: Designathon, UI/UX Design
@@ -41,4 +41,4 @@
 - id: portfolio-2019
   title: Portfolio 2019
   desc: Before NID
-  duration: NA
+  duration: 
